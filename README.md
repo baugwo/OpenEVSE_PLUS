@@ -1,4 +1,4 @@
-# OpenEVSE_PLUS
+# OpenEVSE_PLUS（充电桩）
 README.md for OpenEVSE Hardware
 Files SCH and BRD in Eagle format
 License CC BY-SA 3.0
